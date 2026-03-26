@@ -16,7 +16,8 @@ A modern productivity app built with React and Supabase.
 - CSS
 
 ## 📸 Screenshot
-<img width="1366" height="768" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/c06c656f-14b4-4211-b47c-4710668ec0ef" />
+
+<img width="1366" height="768" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/8dcf05a5-cffe-4c5b-bb5d-a2d4689e430c" />
 
 
 ## 🚀 Run locally
